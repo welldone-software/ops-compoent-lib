@@ -1,5 +1,5 @@
 {
-  "name": "@optibus/component-lib",
+  "name": "ops-component-lib",
   "version": "1.2.6",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
